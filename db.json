@@ -1,19 +1,5 @@
 [
   {
-    "name": "balull",
-    "email": "hbxc",
-    "phone": "bbch",
-    "githubLink": "djbdj",
-    "stopwatchTime": "00:00:14"
-  },
-  {
-    "name": "hulk",
-    "email": "chirkut@pillu .com",
-    "phone": "bbch",
-    "githubLink": "djbdj",
-    "stopwatchTime": "00:00:37"
-  },
-  {
     "name": "bullock",
     "email": "carpenter@plumber.com",
     "phone": "bbch",
@@ -33,5 +19,12 @@
     "phone": "12345641",
     "githubLink": "https://ww.fgfhf.com",
     "stopwatchTime": "00:00:37"
+  },
+  {
+    "name": "Godzilla",
+    "email": "god@gmail.com",
+    "phone": "+123654",
+    "githubLink": "https://github.com/dfhf",
+    "stopwatchTime": "00:00:39"
   }
 ]
