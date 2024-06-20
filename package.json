@@ -1,0 +1,25 @@
+{
+  "name": "vbbackend",
+  "version": "1.0.0",
+  "description": "backend for visual basic app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist && npx tsc",
+    "start": "concurrently \"npx tsc\" \"node dist/index.js\"",
+    "dev": "concurrently \"npx tsc -w\" \"nodemon dist/index.js\""
+  },
+  "author": "devesh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.6",
+    "body-parser": "^1.20.2",
+    "concurrently": "^8.2.2",
+    "express": "^4.19.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
